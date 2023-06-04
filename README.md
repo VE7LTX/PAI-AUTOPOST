@@ -2,7 +2,7 @@
 
 ## Social Media Auto Posting with Ziggy
 
-This script enables you to automatically schedule and post to LinkedIn, Twitter, Facebook, and Instagram using Ziggy, your Personal AI. It fetches a random viral topic from Ziggy and generates content for each social media platform. The posts are scheduled and include the hashtags #ziggy #easytrain.ai #vdtl #ve7ltx.tech.
+This script enables you to automatically schedule and post to LinkedIn, Twitter, Facebook, and Instagram using your Personal AI. It fetches a random viral topic from your AI and generates content for each social media platform. The posts are scheduled and include the hashtags #ziggy #easytrain.ai #vdtl #ve7ltx.tech.
 
 ## Prerequisites
 
